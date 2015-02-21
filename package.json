@@ -1,0 +1,7 @@
+{
+  "name": "nudossi-example",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "nudossi": "^0.0.4"
+  }
+}
