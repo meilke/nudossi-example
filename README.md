@@ -43,7 +43,7 @@ To run it from the command line, do the following:
 
 ```bash
 $ npm install
-$ grunt --packageName="My.Message" --newVersion="2.7.0" --path="test/data/destination/""
+$ grunt --packageName="My.Message" --newVersion="2.7.0" --path="test/data/destination/"
 ```
 
 ## From within Grunt
